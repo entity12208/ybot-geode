@@ -1,0 +1,11 @@
+{
+  "id": "entity12208.ybotgeode",
+  "name": "YBot Geode",
+  "developer": "entity12208",
+  "description": "Safe Geode version of YBot with auto-retry and basic logging.",
+  "version": "1.0.0",
+  "geode": {
+    "required": "0.4.0"
+  },
+  "entry": "src/YBot.cpp"
+}
